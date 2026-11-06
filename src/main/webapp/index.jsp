@@ -12,10 +12,12 @@
 </head>
 <body>
 
-    <h1>Hello, Student!</h1>
+    <h1>Welcome, Triveni Balekundri</h1>
 
-    <p>My first Java application
-       deployed using Docker.</p>
+    <p>You have deployed Java application
+       using Docker.</p>
+
+    <p>Latest deployment automated using Jenkins, Docker and AWS EC2.</p>
 
 </body>
 </html>
